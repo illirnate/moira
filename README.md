@@ -1,4 +1,4 @@
-# Moίra/Fate Cipher
+# Moira/Fate Cipher
 Cipher inspired by Polybius.
 # Why was it made?
 It was made out of boredom. there were multiple versions before this.
