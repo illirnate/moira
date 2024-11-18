@@ -12,7 +12,9 @@ Made a little icon to go with it, the program is a Console application made in C
 ## Usage
 
 There's 2 options. You can Encode or Decode.
+
 Type the option you want and press enter.
+
 To copy the text, select and then right click, it *should* go into your clipboard and be copyable.
 
 ![1](2024-11-18_02-22.png)
